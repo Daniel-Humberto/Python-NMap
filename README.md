@@ -87,5 +87,6 @@ La herramienta genera los siguientes tipos de reportes:
 
 ## Licencia
 
+Este proyecto está licenciado bajo la [Licencia GNU](LICENSE).
 
-Este proyecto está licenciado bajo los términos de la licencia GNU.
+---
