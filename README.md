@@ -89,4 +89,4 @@ La herramienta genera los siguientes tipos de reportes:
 
 Este proyecto está licenciado bajo la [Licencia GNU](LICENSE).
 
---
+---
