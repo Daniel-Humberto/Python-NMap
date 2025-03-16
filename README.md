@@ -31,7 +31,7 @@ Python Map es una herramienta de línea de comandos basada en Python que proporc
 Ejecutar la herramienta con privilegios de superusuario:
 
 ```bash
-sudo python3 python_map.py
+sudo python3 Python-NMap.py
 ```
 
 ### Menú Principal
