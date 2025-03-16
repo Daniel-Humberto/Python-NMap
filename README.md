@@ -2,7 +2,7 @@
 
 ## Herramienta de Auditoría y Escaneo de Redes
 
-![Imagen 1](Imagenes/1.png)
+![Imagen 2](Imagenes/1.png)
 
 ## Descripción
 
